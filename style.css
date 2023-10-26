@@ -12,8 +12,6 @@ form {
 input {
   width: 340px;
   padding: 10px;
-  border: 1px solid #000;
-  border-radius: 8px;
   font-size: 18px;
 }
 
@@ -23,16 +21,8 @@ button {
   background-color: #007BFF;
   color: white;
   border: none;
-  border-radius: 8px;
   cursor: pointer;
-  margin: 15px;
-  transition: all 0.2s ease-in-out;
 }
-
-button:hover {
-  background: #004fa3;
-}
-
 
 p {
   text-align: center;
